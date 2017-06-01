@@ -1,0 +1,23 @@
+{
+  "name": "i18n-express-subdirs",
+  "version": "1.0.0",
+  "description": "Middleware for express that adds the language to the url.",
+  "main": "index.js",
+  "dependencies": {
+    "i18n": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandstarke/i18n-express-subdirs.git"
+  },
+  "author": "Roland Starke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolandstarke/i18n-express-subdirs/issues"
+  },
+  "homepage": "https://github.com/rolandstarke/i18n-express-subdirs#readme"
+}
