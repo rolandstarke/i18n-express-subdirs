@@ -1,6 +1,6 @@
 # i18n-express-subdirs
 
-[![npm package](https://img.shields.io/npm/v/i18n-express-subdirs.svg)](https://www.npmjs.com/package/node-i18n-express-subdirs)
+[![npm package](https://img.shields.io/npm/v/i18n-express-subdirs.svg)](https://www.npmjs.com/package/i18n-express-subdirs)
 
 A middeware for [express](https://www.npmjs.com/package/express) that makes your app ready for internationalisation using Subdirectories with gTLDs.
 It redirects `/someurl` to `/en/someurl`, `/de/someurl`, ...  using 'accept-language' header to guess language settings  and sets the locale in the module [i18n](https://www.npmjs.com/package/i18n). This URL structure is one of the ways to make your site multilingual for more information read at the [Search Console Help Center](https://support.google.com/webmasters/answer/182192)
